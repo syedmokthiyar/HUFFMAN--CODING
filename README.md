@@ -8,19 +8,14 @@ To implement Huffman coding to compress the data using Python.
 ## Algorithm:
 ### Step1:
 Initialize the string.
-
 ### Step2:
 Create the tree nodes.
-
 ### Step3:
 Implement the Huffman Code.
-
 ### Step4:
 Calculate the Frequency.
-
 ### Step5:
 Print the Huffman code for the string.
-
  
 ## Program:
 ```python
