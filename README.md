@@ -16,7 +16,6 @@ Implement the Huffman Code.
 Calculate the Frequency.
 ### Step5:
 Print the Huffman code for the string.
- 
 ## Program:
 ```python
 # Get the input String
